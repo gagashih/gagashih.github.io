@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SPIRL | Hua-Shan Shih</title>
+    <title>Hua-Shan Shih</title>
     <link>https://gagashih.github.io/tutorials/spirl/</link>
       <atom:link href="https://gagashih.github.io/tutorials/spirl/index.xml" rel="self" type="application/rss+xml" />
-    <description>SPIRL</description>
+    <description>Hua-Shan Shih</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023-2023 Hua-Shan Shih</copyright><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gagashih.github.io/img/icon-192.png</url>
-      <title>SPIRL</title>
+      <title>Hua-Shan Shih</title>
       <link>https://gagashih.github.io/tutorials/spirl/</link>
     </image>
     
