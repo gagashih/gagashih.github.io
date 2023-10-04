@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Publications | Hua-Shan Shih</title>
+    <link>https://gagashih.github.io/publication/</link>
+      <atom:link href="https://gagashih.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023-2023 Hua-Shan Shih</copyright>
+    <image>
+      <url>https://gagashih.github.io/img/icon-192.png</url>
+      <title>Recent Publications</title>
+      <link>https://gagashih.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Infalling of Nano-dust Because of Air Drag on Uranus</title>
+      <link>https://gagashih.github.io/publication/202309_uranus/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gagashih.github.io/publication/202309_uranus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

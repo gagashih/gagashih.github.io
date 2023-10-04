@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fortran | Hua-Shan Shih</title>
+    <link>https://gagashih.github.io/tags/fortran/</link>
+      <atom:link href="https://gagashih.github.io/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
+    <description>fortran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023-2023 Hua-Shan Shih</copyright><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gagashih.github.io/img/icon-192.png</url>
+      <title>fortran</title>
+      <link>https://gagashih.github.io/tags/fortran/</link>
+    </image>
+    
+    <item>
+      <title>Y-dwarf Atmosphere Study</title>
+      <link>https://gagashih.github.io/project/y-dwarf-atmosphere-study/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gagashih.github.io/project/y-dwarf-atmosphere-study/</guid>
+      <description>&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
