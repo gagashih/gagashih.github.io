@@ -5,7 +5,7 @@
     <link>https://gagashih.github.io/project/</link>
       <atom:link href="https://gagashih.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023-2024 Hua-Shan Shih</copyright><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023-2024 Hua-Shan Shih</copyright><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gagashih.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Oxygen Corona on Mars</title>
       <link>https://gagashih.github.io/project/oxygen-corona-on-mars/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       <guid>https://gagashih.github.io/project/oxygen-corona-on-mars/</guid>
-      <description>&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Simulation of hot oxygen&amp;rsquo;s production and escape&lt;/p&gt;
 </description>
     </item>
     
